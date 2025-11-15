@@ -10,8 +10,8 @@
   <img src="https://img.shields.io/badge/PyTorch-2.x-red?logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-4.x-green?logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-Active-success?style=flat" />
-  <img src="https://img.shields.io/github/license/YourUsername/PyTorch-Emojify" />
-  <img src="https://img.shields.io/github/stars/YourUsername/PyTorch-Emojify?style=social" />
+  <img src="https://img.shields.io/github/license/Shubhankar-hub/PyTorch-Emojify" />
+  <img src="https://img.shields.io/github/stars/Shubhankar-hub/PyTorch-Emojify?style=social" />
 </p>
 
 ---
