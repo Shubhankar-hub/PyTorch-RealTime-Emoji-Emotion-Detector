@@ -50,13 +50,15 @@ Perfect for learning computer vision, deep learning, PyTorch, or making cool AI 
 > Replace `demo.gif` when you upload your GIF.
 
 <p align="center">
-  <img src="demo.gif" width="600" />
+  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5db240f0-339d-4a82-abed-930853298c11" />
+  <img width="1920" height="1080" alt="Screenshot 2025-11-15 203640" src="https://github.com/user-attachments/assets/a5293fd0-b825-4554-9f6c-b6d1f668e782" />
+
 </p>
 
 ---
 
 ## 📂 Project Structure
-
+```
 PyTorch-Emojify/
 │── model.py
 │── train.py
@@ -64,27 +66,27 @@ PyTorch-Emojify/
 │── emojify.py
 │── gui.py
 │── emotion.pth
-│── requirements.txt
 │── README.md
+│── requirements.txt
 │── assets/
-│ └── emojis/
-│ angry.png
-│ disgusted.png
-│ fearful.png
-│ happy.png
-│ neutral.png
-│ sad.png
-│ surprised.png
+│      angry.png
+│      disgusted.png
+│      fearful.png
+│      happy.png
+│      neutral.png
+│      sad.png
+│      surprised.png
 │
-└── data/ (optional)
-├── train/
-└── test/
+└── data
 
+```
 
 Install all dependencies:
 
 ```
-pip install torch torchvision torchaudio numpy```
+pip install -r requirements.txt
+pip install torch torchvision torchaudio numpy
+
 ```
 🚀 Run Real-Time Emotion Detection
 python realtime.py
