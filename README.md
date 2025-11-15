@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="A_logo_features_the_project_title_PyTorch_Emojify.png" width="320"><br>
-  🤖 PyTorch Emojify  
+  🤖 PyTorch-RealTime-Emoji-Emotion-Detector
   <br>
   <sub>Real-Time Emotion Detection with Emoji Overlay</sub>
 </h1>
@@ -10,8 +10,7 @@
   <img src="https://img.shields.io/badge/PyTorch-2.x-red?logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-4.x-green?logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-Active-success?style=flat" />
-  <img src="https://img.shields.io/github/license/Shubhankar-hub/PyTorch-Emojify" />
-  <img src="https://img.shields.io/github/stars/Shubhankar-hub/PyTorch-Emojify?style=social" />
+  <img src="https://img.shields.io/badge/License-MIT-orange" />
 </p>
 
 ---
