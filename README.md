@@ -1,5 +1,6 @@
 <h1 align="center">
-  <img src="A_logo_features_the_project_title_PyTorch_Emojify.png" width="320"><br>
+  <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/4b8a1f88-029f-4c80-b4dd-ed5dee0679d6" />
+
   🤖 PyTorch-RealTime-Emoji-Emotion-Detector
   <br>
   <sub>Real-Time Emotion Detection with Emoji Overlay</sub>
