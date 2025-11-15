@@ -45,9 +45,7 @@ Perfect for learning computer vision, deep learning, PyTorch, or making cool AI 
 
 ---
 
-## 🎥 Demo Preview (GIF Placeholder)
-
-> Replace `demo.gif` when you upload your GIF.
+## 🎥 Demo 
 
 <p align="center">
   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5db240f0-339d-4a82-abed-930853298c11" />
